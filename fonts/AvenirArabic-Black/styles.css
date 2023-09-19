@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'AvenirArabic-Black';
+  src: url(./AvenirArabic-Black.eot);
+  src: url(./AvenirArabic-Black.eot?#iefix) format('embedded-opentype'),
+       url(./AvenirArabic-Black.otf) format('otf'),
+       url(./AvenirArabic-Black.svg#AvenirArabic-Black) format('svg'),
+       url(./AvenirArabic-Black.ttf) format('truetype'),
+       url(./AvenirArabic-Black.woff) format('woff'),
+       url(./AvenirArabic-Black.woff2) format('woff2');
+}
